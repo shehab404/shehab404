@@ -1,3 +1,5 @@
+[![GitHub followers](https://img.shields.io/github/followers/pythondeveloper6?label=Github%20Followers&style=for-the-badge)](https://github.com/shehab404)
+
 ## I'm a Python Developer , Data Scientist & Instructor
 - 👋 Hi, I’m @Shehab404
 - 👀 I’m interested in Tech and Innovations
