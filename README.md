@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I’m @Shehab404
+👀 I’m interested in Tech and Innovations
+🌱 I’m currently learning Computer Science
+💞️ I’m looking to collaborate on any interesting projects
+
 
 <!--
 **shehab404/shehab404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
