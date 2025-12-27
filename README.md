@@ -24,7 +24,6 @@
 ---
 
 ###  :woman_technologist: About Me : 
-I'm a Python Developer  & Instructor
 
 - 👋 Hi, I’m @Shehab Fattah
 - 👀 I’m interested in Tech and Innovations
